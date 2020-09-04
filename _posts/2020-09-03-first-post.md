@@ -1,8 +1,6 @@
 ---
-layout: home
+layout: post
 title: "First Blog Post"
-tag: blog
-categories: blog
 permalink: first-post
 ---
 
