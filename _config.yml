@@ -1,1 +1,4 @@
 theme: jekyll-theme-modernist
+header_pages:
+  - /events/index.md
+  - /member-groups/index.md
