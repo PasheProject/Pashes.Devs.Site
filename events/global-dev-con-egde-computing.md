@@ -1,4 +1,4 @@
-# Global Webnair on Edge Computing
+# Global Webinar on Edge Computing
 DotConnect is excited to host first Global Dev Connection Webnair on Edge Computing.
 
 ## What is Edge Computing?
