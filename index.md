@@ -1,4 +1,7 @@
-# DotConnect
+---
+layout: post
+title: "DotConnect"
+---
 
 DotConnect is a alliance of various technical communities to provide updates of events, contents.
 
