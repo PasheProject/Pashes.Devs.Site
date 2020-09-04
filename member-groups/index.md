@@ -14,5 +14,5 @@ Join facebook page to get daily .Net tips from experts.
 
 We work together for a common goal. We support and encourage each other.... We continuously learn.
 
-[Facebook group](https://www.facebook.com/groups/techforumusercommunity)
+[Facebook group](https://www.facebook.com/groups/techforumusercommunity).
 
