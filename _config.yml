@@ -3,6 +3,6 @@ theme: minima
 header_pages:
   - events/index.md
   - member-groups/index.md
-  - /blog/
+  - blog/index.md
 
 
