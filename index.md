@@ -9,6 +9,7 @@ DotConnect connects and unites all into a single starting point with acitivities
 * Promote user group events organised by individual member group
 * Share interesting technical events happening in interest
 * Publish selected blog posts/articles
+* Recommend useful open source projects
 
 ## First Global Webinar on Edge Computing
 
