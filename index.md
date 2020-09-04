@@ -1,7 +1,6 @@
 ---
 layout: post
 ---
-
 DotConnect is a alliance of various technical communities to provide updates of events, contents.
 
 Technical user groups are formed to focus and share specific technology interests. However it is also benefitial to have a unified view of these initiatives. 
