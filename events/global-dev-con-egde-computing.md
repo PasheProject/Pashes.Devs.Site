@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Global Webinar on Edge Computing
 categories: events
 ---
