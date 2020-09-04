@@ -3,11 +3,15 @@ layout: post
 title: "Events"
 ---
 
-<ul>
-  {% for post in site.categories.events %}
-    {% if post.url %}
-        <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endif %}
-  {% endfor %}
-</ul>
+{% for page in site.pages %}
+  {% if page.categories contains 'events' %}
+    <div class="item">
+      <h3><a href="{{ page.url }}">
+        {{ page.title }}
+      </a></h3>
+
+      <p>{{page.description}}</p>  
+    </div>
+  {% endif %}
+{% endif %}
 
