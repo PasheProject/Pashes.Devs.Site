@@ -4,16 +4,10 @@ title: "Events"
 ---
 
 <ul>
-    <li>
-      <a href="/events/global-dev-con-egde-computing">Global Webinar on Edge Computing</a>
-    </li>
-</ul>
-
-<ul>
-  {% for page in site.pages %}
-    <li>
-      <a href="{{ page.url }}">{{ page.title }}</a>
-    </li>
+  {% for post in site.categories.events %}
+    {% if post.url %}
+        <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endif %}
   {% endfor %}
 </ul>
 
