@@ -1,4 +1,4 @@
 ---
 layout: post
-title: "Blog Home"
+title: "Blog"
 ---
