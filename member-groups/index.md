@@ -1,4 +1,8 @@
-## DotConnect Member Groups
+---
+layout: post
+title: "Member Groups"
+categories: misc
+---
 
 ### DotNetters
 
