@@ -3,6 +3,6 @@ theme: minima
 header_pages:
   - events/index.md
   - member-groups/index.md
-  - _posts/2020-09-02-blog.md
+  - /blog/
 
 
