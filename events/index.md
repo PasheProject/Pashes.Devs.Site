@@ -4,10 +4,8 @@ title: "Events"
 ---
 
 <ul>
-  {% for post in site.posts %}
     <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
+      <a href="/events/global-dev-con-egde-computing">Global Webinar on Edge Computing</a>
     </li>
-  {% endfor %}
 </ul>
 
