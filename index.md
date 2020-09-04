@@ -10,7 +10,7 @@ DotConnect connects and unites all into a single starting point with acitivities
 * Share interesting technical events happening in interest
 * Publish selected blog posts/articles
 
-## First Global Webnair on Edge Computing
+## First Global Webinar on Edge Computing
 
 DotConnect is excited to host first Global Dev Connection Webnair on Edge Computing. Event date and topics will be published later. But if you can't wait, you can check [here](events/global-dev-con-egde-computing) to learn more details.
 
