@@ -15,4 +15,13 @@ DotConnect connects and unites all into a single starting point with acitivities
 DotConnect is excited to host first Global Dev Connection Webnair on Edge Computing. Event date and topics will be published later. But if you can't wait, you can check [here](events/global-dev-con-egde-computing) to learn more details.
 
 ## Becoming a Member User Group
-User groups can apply to become member ogranization. Guidelines will be published soon.
+
+Current member groups are available [here](/member-groups).
+
+User groups can apply to become member ogranization. 
+
+If you're confident that you're group is eligible and want to connect with other user groups, add your group [here](/member-groups) and create a pull request.
+
+In the pull request include details about your group and why you think your user group is eligible.
+
+
