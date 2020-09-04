@@ -2,6 +2,7 @@
 layout: post
 title: "Groups"
 categories: groups
+permalink: /groups/
 ---
 
 ## DotNetters
