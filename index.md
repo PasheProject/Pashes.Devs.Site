@@ -9,13 +9,7 @@ DotConnect connects and unites all into a single starting point with acitivities
 * Publish selected blog posts/articles
 
 ## First Global Dev Connection Webnair on Edge Computing
-DotConnect is excited to host first Global Dev Connection Webnair on Edge Computing.
-
-### Edge Computing to Address More Real World Challenges
-With curent panademic situation, digital technologies provide a strong support to continue life as usual where possible. Students are participating online classes, doctors are treating patients remotely with more safety, professionals continuing their work from home and the list goes on. As usage of internet and computing increased significantly, it is also important to start thinking, designing and utilizing technologies most effectively where possible.
-
-## Event Registration
-Registration and other details of event will be published soon.
+DotConnect is excited to host first Global Dev Connection Webnair on Edge Computing. Event date and topics will be published later. But if you can't wait, you can check [here](events/global-dev-con-egde-computing.md) to learn more details.
 
 ## Becoming a Member User Group
 User groups can apply to become member ogranization. Guidelines will be published soon.
