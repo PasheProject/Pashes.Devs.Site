@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "First Blog Post"
-permalink: first-post
+permalink: blog/first-post
 ---
 
 Hello world.
