@@ -1,5 +1,10 @@
 title: Pashe.Devs
 google_analytics: UA-9386106-8
+
+github_username:  pasheProject
+rss: rss
+
+show_excerpts: true
  
 theme: minima
 header_pages:
@@ -8,5 +13,5 @@ header_pages:
 
 plugins:
   - jekyll-feed
-
+  - jekyll-seo-tag
 
