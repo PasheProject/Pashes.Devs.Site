@@ -26,11 +26,14 @@ You can write posts for Pashe.Devs blog by sharing your technical experience and
 * Under '__posts' folder create a md file with following format 'YYYY-MM-DD-post-title.md)' (example: 2020-09-05-global-webinar-on-edge-computing.md)
 * In the file header put the following 
 
-```---
+```
+---
 layout: post
 title: "Global Webinar on Edge Computing"
 permalink: blog/global-webinar-on-edge-computing
----```
+---
+```
+
 * Make a pull request.
 
 Happy coding!
