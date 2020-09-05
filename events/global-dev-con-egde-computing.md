@@ -21,11 +21,11 @@ As usage of internet and computing increased significantly, it is also important
 
 In the dev connection, following areas will be discussed:
 
-* Introduction to Edge Computing: what is edge computing, how it is different from cloud computing
-* Real World Use Cases: Demonstration of some real world problems that can be solved with
-* Technology Solutions: Provides variaous solutions related to edge computing. [AWS for the Edge](https://aws.amazon.com/edge), [Azure Stack Edge](https://azure.microsoft.com/en-gb/products/azure-stack/edge/)
-* Getting Started with Edge Computing: provides a simplel technical demo
-* Designing Edge Computing Solution: a technical architecture for a typical e-commerce project
+* Introduction to Edge Computing: what is edge computing, how it is different from Cloud Computing
+* Real World Use Cases: Demonstration of some real world problems that can be solved with Edge Computing
+* Getting Started with Edge Computing: provides a simple technical demo
+* Designing Edge Computing Based System: a technical architecture for a typical e-commerce project
+* Technology Vendor Solutions: Provides variaous solutions related to edge computing. [AWS for the Edge](https://aws.amazon.com/edge), [Azure Stack Edge](https://azure.microsoft.com/en-gb/products/azure-stack/edge/)
 * Understanding Edge Computing in Depth: Azure Stack Edge
 
 ## Event Registration
