@@ -1,10 +1,9 @@
-title: DotConnect
+title: Pashe.Devs
 google_analytics: UA-9386106-6
  
 theme: minima
 header_pages:
   - events/index.md
-  - member-groups/index.md
   - blog/index.md
 
 plugins:
