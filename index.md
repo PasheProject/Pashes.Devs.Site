@@ -29,8 +29,8 @@ You can write posts for Pashe.Devs blog by sharing your technical experience and
 ```
 ---
 layout: post
-title: "Global Webinar on Edge Computing"
-permalink: blog/global-webinar-on-edge-computing
+title: "post title"
+permalink: blog/post-permanent-link
 ---
 ```
 
