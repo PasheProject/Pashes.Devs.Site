@@ -27,3 +27,8 @@ We work together for a common goal. We support and encourage each other.... We c
 
 [Facebook group](https://www.facebook.com/groups/techforumusercommunity).
 
+## Pashe - Developers and Engineers
+
+The world is missing a transparent system that can allow donors to directly contribute to verified receivers and follow up with them in a trustworthy way. We are going to fill this up, primarily to stand beside Bangladesh in any emergency need.
+
+[Web site](http://www.pashe.life). [Facebook group](https://www.facebook.com/groups/243165433699302).
