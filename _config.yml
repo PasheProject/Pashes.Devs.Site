@@ -1,4 +1,6 @@
 title: DotConnect
+google_analytics: UA-9386106-6
+ 
 theme: minima
 header_pages:
   - events/index.md
