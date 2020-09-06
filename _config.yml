@@ -1,6 +1,10 @@
 title: Pashe.Devs
 google_analytics: UA-9386106-8
 
+disqus:
+  shortname: pashe-devs
+
+facebook_username: groups/pashe.devs
 github_username:  pasheProject
 rss: rss
 
@@ -10,7 +14,8 @@ theme: minima
 header_pages:
   - members/index.md
   - blog/index.md
-
+  - connect.md
+  
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
