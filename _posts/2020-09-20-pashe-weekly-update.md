@@ -10,6 +10,6 @@ presented how to stay connected & get the update. This is really a challenge as 
   
 ![Knowledge sharing session](../images/meeting/2020-09-20-pashe-weekly-update/img1.jpg)
 ![Knowledge sharing session](../images/meeting/2020-09-20-pashe-weekly-update/img2.jpg)
-Click for the recorded session
-[![Weekly Update Meeting](http://img.youtube.com/vi/4FNgAXFPPwM/0.jpg)](http://www.youtube.com/watch?v=4FNgAXFPPwM "Weekly Update Meeting")
+Click for the recorded session  
+[![Weekly Update Meeting](http://img.youtube.com/vi/4FNgAXFPPwM/0.jpg)](http://www.youtube.com/watch?v=4FNgAXFPPwM "Weekly Update Meeting")  
 Team is very near to our first milestone! Stay tuned :) 
