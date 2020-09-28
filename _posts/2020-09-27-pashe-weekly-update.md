@@ -5,7 +5,7 @@ permalink: blog/pashe_weekly_dev_meeting_update_27092020
 ---
 
 Tonight Pashe UI Exparts(Imran Mondal, Tawsif Alam & Rojab Khan) given a great presentation on Pashe landing page development.
-Developers were excitted on the UI architectural session given by Imran Mondal. He explained various benifit os next.js library.  
+Developers were excitted on the UI architectural session given by Imran Mondal. He explained various benifit of next.js library used in our development.  
 ![Knowledge sharing session](../images/meeting/2020-09-27-pashe-weekly-update/img1.jpg)  
 ![Knowledge sharing session](../images/meeting/2020-09-27-pashe-weekly-update/img2.jpg)  
 ![Knowledge sharing session](../images/meeting/2020-09-27-pashe-weekly-update/img3.jpg) 
@@ -14,7 +14,7 @@ Finally the Pashe landig page looks like:
 ![Knowledge sharing session](../images/meeting/2020-09-27-pashe-weekly-update/img5.jpg)  
 At the end we set our new target for the team as follows  
 1) Pashe landing page will live on next Wednesday 7th Oct 2020 - Imran & Mahmudul Bhai  
-2) Doner & Receiver Registration on next Wednesday 14th Oct 2020 - Sana, Tawsif, Zamee & Siddik    
+2) Doner & Receiver Registration on next Wednesday 14th Oct 2020 - UI: Tawsif, API: Sana, Zamee, RDBMS: Ahsan Bhai & Siddik    
   
   
 Click the image below for the recorded session    
