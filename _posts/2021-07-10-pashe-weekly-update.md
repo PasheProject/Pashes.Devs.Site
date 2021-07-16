@@ -3,7 +3,7 @@ layout: post
 title: "10072021: Pashe Weekly Dev Meeting Update"
 permalink: blog/pashe_weekly_dev_meeting_update_10072021
 ---
-We came up with exciting news for the community that Pashe is coming opensource soon. 
+We come up with exciting news for the community that Pashe is coming opensource soon. 
 Pashe team really delighted to have our advisor and few technology experts joined 
 our team.
 Please welcome our advisor [Dr. Mashiur Rahman](https://web.facebook.com/rahman.mashiur)
